@@ -2,4 +2,4 @@
  # Yu Chuchen's personal CV
  履歴書ホームページへよこそう　
  Welcome to my resume homepage.
- [About Me]{about.md}
+ [About Me](about.md)

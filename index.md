@@ -5,5 +5,5 @@
  
  Welcome to my resume homepage.
  
- [eduction](education.md)
- [About Me](about.md)
+ [学歴](education.md)
+ [インフォ](about.md)
